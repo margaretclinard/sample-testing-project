@@ -1,0 +1,19 @@
+{
+  "name": "sample-testing-project",
+  "version": "1.0.0",
+  "description": "This is a test project following GitHub article: JavaScript Testing with Grunt, Mocha and Chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/margaretclinard/sample-testing-project.git"
+  },
+  "author": "Margaret <margaret.clinard@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/margaretclinard/sample-testing-project/issues"
+  },
+  "homepage": "https://github.com/margaretclinard/sample-testing-project"
+}
